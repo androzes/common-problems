@@ -2,7 +2,7 @@
  * Problem: 
  * Given a grid G and word W 
  * Find W in G, such that word can be formed in either right or bottom direction 
- * (leftwarsd or upwards move not allowed )
+ * (leftwards or upwards move not allowed )
  * 
  * Output: 	if found, return sequence of coordinates of all found words  
  * 			otherwise return []
